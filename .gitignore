@@ -1,0 +1,7 @@
+*.a
+*.mk
+*.out
+*.o
+*.d
+Debug/**
+Makefile_dir
