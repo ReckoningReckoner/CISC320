@@ -5,3 +5,4 @@
 *.d
 Debug/**
 Makefile_dir
+.DS_Store
