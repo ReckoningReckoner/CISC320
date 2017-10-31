@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Fraction_DLL.cpp
+  dllmain.cpp
+     Creating library C:\Users\14vb16\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Release\Fraction_DLL.lib and object C:\Users\14vb16\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Release\Fraction_DLL.exp
+  Generating code
+  All 118 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\14vb16\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Release\Fraction_DLL.dll
+  ConsoleApplication1.vcxproj -> C:\Users\14vb16\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Release\Fraction_DLL.pdb (Full PDB)
